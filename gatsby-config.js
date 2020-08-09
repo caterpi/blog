@@ -110,6 +110,17 @@ module.exports = {
             }
           },
           {
+            // Using gatsby-remark-embed-video before gatsby-remark-images & gatsby-remark-responsive-iframe plugins.             
+            resolve: `gatsby-remark-embed-video`,
+            options: {
+              maxWidth: 426,
+              ratio: 1.77,
+              height: 240,
+              related: false,
+              noIframerder: true,
+            }
+          },
+          {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 960,
