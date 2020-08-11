@@ -3,6 +3,10 @@
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
 
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   pathPrefix: siteConfig.pathPrefix,
   siteMetadata: {
@@ -96,6 +100,12 @@ module.exports = {
           output: '/rss.xml',
           title: siteConfig.title
         }]
+      }
+    },
+    {
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint: process.env.MAILCHIMP_ENDPOINT
       }
     },
     {

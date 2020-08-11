@@ -1,0 +1,14 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.subscribe {
+  &__item {
+    margin: 5px -3px;
+  }
+
+  &__button{
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+
+}
