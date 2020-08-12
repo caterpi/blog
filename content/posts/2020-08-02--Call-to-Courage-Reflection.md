@@ -9,7 +9,7 @@ tags:
   - "Netflix"
   - "Dcoumentary"
   - "Reflection"
-description: "Brené Brown: Call to Courage is a Netflix Original based on her eponymous book. In this TED talk-like documentary, she teaches how courage and vulnerability more are intertwined than we would think."
+description: "Brené Brown: Call to Courage is a Netflix Original based on her eponymous book. In this TED talk-like documentary, she teaches how courage and vulnerability are more intertwined than we would think."
 socialImage: "/media/gooey_cookies.jpg"
 ---
 <!-- - [Courage is…](#courage-is)
@@ -21,18 +21,18 @@ socialImage: "/media/gooey_cookies.jpg"
 `youtube:https://www.youtube.com/watch?v=gr-WvA7uFDQ`
 
 ## Courage Is...
-Before watching Call to Courage, I thought of courage as big acts of bravery. I’m imagining someone who chooses an untraditional path in life, following his/her dreams. Brown’s talk on courage lies far away from this imagery. Instead, she looks at courage from many other angles (work, relationships, trauma, and ordinary life moments) and makes it attainable for all of us.
+Before watching Call to Courage, I thought of courage as big acts of bravery. I’m imagining someone who chooses an untraditional path in life, following her dreams. Brown’s talk on courage lies far away from this imagery. Instead, she looks at courage with a more casual lense. It doesn't always have to be a life-changing decision; we can all be courageous in different parts of our lives such as relationships or work. For example, saying "I love you" first in a relationship is also courage.
 
-She defines courage as choosing to show up knowing you will fail.and there is no courage without this fear, or more broadly, vulnerability. She uses findings from decades of research as well as personal anecdotes to illustrate the importance of vulnerability in order to be courageous, compassionate, and creative. This is one of my favorite talks I’ve ever listened to. She is funny, inspirational, and educational while keeping it so real. I think I “aww”-ed, cried, and laughed during this 1-hour talk. 
+She defines courage as choosing to show up knowing you will fail and there is no courage without this fear, or more broadly, vulnerability. She uses findings from decades of research as well as personal anecdotes to illustrate the importance of vulnerability in order to be courageous, compassionate, and creative. This is one of my favorite talks I’ve ever listened to. She is funny, inspirational, and educational while keeping it so real. Anyone can relate to her stories at some level. I think I “aww”-ed, cried, and laughed all during this 1-hour talk. 
 
 
 ## Measure of Courage: Vulnerability
 
 Brown’s 20 years of research finds vulnerability to be the best measure of courage. That is, “you can measure how brave you are by how vulnerable you are willing to be”. 
 
-All the icky emotions like shame, scarcity, fear, anxiety, uncertainty, grief are what makes us vulnerable. We don’t want others to see these emotions in us, but we must let them, because they give birth to love, belonging, and joy. 
+All the icky emotions like shame, scarcity, fear, anxiety, uncertainty, grief are what make us feel exposed and uncomfortable. We don’t want others to see these emotions in us, but we must let them, because they give birth to love, belonging, and joy. 
 
-Brown says joy is the most vulnerable human emotion. We’re afraid to lean into joy, because we’re afraid that it could be taken away at any moment. I can’t tell you the number of times I’ve imagined something terrible happening to my sisters when we are having a good time and thinking that this could be the last memorable thing we do together. The fear is tangible, especially because we experience glimpses of this or hear stories of loss from others around us. I definitely think about these tragic “what if” situations more often ever since my sister has been really sick. In Brown’s words, I’m dress-rehearsing tragedy. 
+Brown says, joy is the most vulnerable human emotion. We’re afraid to lean into joy, because we’re afraid that it could be taken away at any moment. I can’t tell you the number of times I’ve imagined something terrible happening to my sisters when we are having a good time and thinking that this could be the last memorable thing we do together. The fear is tangible, especially because we experience glimpses of this or hear stories of loss from others around us. I definitely think about these tragic “what if” situations more often ever since my sister has been really sick. In Brown’s words, I’m dress-rehearsing tragedy. 
 
 Her research shows that people who can truly lean into joy have one thing in common: gratitude. We know that the classic therapy activity of listing three things you’re grateful for everyday is proven to improve happiness. So why was I so surprised? First, I think it’s because I feel generally happy, but there’s only a handful of moments I’ve felt pure joy. Even when I did experience joy, the same memories no longer bring me joy later on for lots of other reasons. So I end up demoting the current value of joy in anticipation of how I would feel about it in the future with thoughts like “I don’t want to overvalue these moments with him or her too much, because what if they’re no longer part of my life?” This talk made me realize how I’ve been holding myself back and how much I actually want more joy in all of my relationships. I actively make small improvements to my thoughts and behaviors to be happier, but I wasn’t doing the same to be more joyful. The goal isn’t to eliminate the fear of loneliness or loss, but to accept them in order to harvest the goods of all relationships. Now, even with the best friendships I have, I acknowledge they may disappear. At first, it was scary to embrace these thoughts, but it made me appreciate the lasting friendships even more. 
 
@@ -58,7 +58,7 @@ She quotes Stuart Brown who defines play as “time spent without purpose”. I 
 
 
 ## Starting this Blog
-It was intentional to write a piece on vulnerability as my first post. I'm neither confident in my writing and nor articulate on many topics I’d like to write about. In the spirit of being brave, I choose to pursue this small ambition of mine. I end with a quote that Brené starts with in her talk:
+It was intentional to write a piece on vulnerability as my first post. I am neither confident in my writing nor articulate on many topics I’d like to write about. In the spirit of being brave, I choose to pursue this small ambition of mine. I end with a quote that Brené starts with in her talk:
 
 >The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again
 > 

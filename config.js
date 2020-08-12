@@ -21,7 +21,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Cat Tate',
+    name: 'Chenille Pine',
     photo: '/the-very-hungry-caterpillar.jpg',
     bio: 'Hungry to learn.',
     contacts: {
