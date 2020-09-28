@@ -10,7 +10,7 @@ tags:
   - "Dcoumentary"
   - "Social Justice"
   - "Politics"
-description: "Educating myself on history of racism that's been long over-due."
+description: "Educating myself on history of racism that's been long-overdue."
 socialImage: "/media/gooey_cookies.jpg"
 ---
 In the midst of BLM, people have gotten creative with using Instagram as a platform for activism. More of my woke friends are putting a lot of effort to regularly share posts containing infographics and statistics relevant to political issues. Some of them are very useful and I very much welcome them (ex. voting registration reminders). Since only those who seek out the information will come across these anyways, I'm somewhat impartial to people posting them. Of course, the embedded information is mostly surface-level and individuals should do due-diligence and do the homework. Anyway, “Prison Gerrymandering” is a topic I came across that I wanted to look into beyond the square post.
