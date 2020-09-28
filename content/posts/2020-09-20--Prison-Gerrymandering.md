@@ -10,10 +10,10 @@ tags:
   - "Dcoumentary"
   - "Social Justice"
   - "Politics"
-description: ""
+description: "Educating myself on history of racism that's been long over-due."
 socialImage: "/media/gooey_cookies.jpg"
 ---
-With many woke friends, I ‘ve been seeing more sensational infographics on political issues on Instagram. “Prison Gerrymandering” is a topic I came across a while ago that I thought deserved more attention outside of the square post.
+In the midst of BLM, people have gotten creative with using Instagram as a platform for activism. More of my woke friends are putting a lot of effort to regularly share posts containing infographics and statistics relevant to political issues. Some of them are very useful and I very much welcome them (ex. voting registration reminders). Since only those who seek out the information will come across these anyways, I'm somewhat impartial to people posting them. Of course, the embedded information is mostly surface-level and individuals should do due-diligence and do the homework. Anyway, “Prison Gerrymandering” is a topic I came across that I wanted to look into beyond the square post.
 
 ## Criminal Justice System
 During quarantine, I’ve seen some great Netflix documentaries on our broken criminal justice system. I highly recommend watching the 13th by Ava DuVernay which narrates the history and policy around the criminal justice system and the evolution from slavery to mass incarceration. If you don’t know it by now, here are well-established truths.
@@ -26,7 +26,7 @@ Under the guise of fighting war on drugs and crime, mass incarceration has been 
 
 ![13th](./../media/13th.png)
 
-## Census
+## Census & Prison Gerrymandering
 There exists an outdated federal policy that counts the incarcerated are counted as residents of the location of imprisonment. This allows local and state governments to exercise political advantage by conveniently counting the imprisoned as “residents” and drawing up voting districts around prisons. Effectively, the disenfranchised inmates are disproportionately bolstering the political power of the rest of the voters in those districts. So, the inmates are being discounted from their home communities where their votes would be counted if they were to vote, and instead, strengthening the communities they don’t represent. Often, it’s the rural white towns that benefit from filling their voting population with POC inmates. “In New York, for example, approximately 77% of all prisoners are African-American or Latino, but 98% of all prisons are located in disproportionately white State Senate districts” (naacp).
 
 ## 2020 Election
