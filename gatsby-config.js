@@ -3,9 +3,9 @@
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
 
-require("dotenv").config({
+require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
-})
+});
 
 module.exports = {
   pathPrefix: siteConfig.pathPrefix,
@@ -103,7 +103,7 @@ module.exports = {
       }
     },
     {
-      resolve: "gatsby-plugin-mailchimp",
+      resolve: 'gatsby-plugin-mailchimp',
       options: {
         endpoint: process.env.MAILCHIMP_ENDPOINT
       }
@@ -120,8 +120,9 @@ module.exports = {
             }
           },
           {
-            // Using gatsby-remark-embed-video before gatsby-remark-images & gatsby-remark-responsive-iframe plugins.             
-            resolve: `gatsby-remark-embed-video`,
+            // Using gatsby-remark-embed-video
+            // before gatsby-remark-images & gatsby-remark-responsive-iframe plugins.
+            resolve: 'gatsby-remark-embed-video',
             options: {
               maxWidth: 426,
               ratio: 1.77,

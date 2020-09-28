@@ -1,33 +1,40 @@
-import React from 'react'
-import addToMailchimp from 'gatsby-plugin-mailchimp'
-import { Form, Input, Button, Divider } from 'antd'
-import { UserOutlined, MailOutlined } from '@ant-design/icons'
-import 'antd/dist/antd.css'
+import React from 'react';
+import addToMailchimp from 'gatsby-plugin-mailchimp';
+import {
+  Form,
+  Input,
+  Button,
+  Divider
+} from 'antd';
+import {
+  UserOutlined,
+  MailOutlined
+} from '@ant-design/icons';
+import 'antd/dist/antd.css';
 import styles from './Subscribe.module.scss';
-
 
 export default class Subscribe extends React.Component {
   constructor() {
-    super()
-    this.state = { name: '', email: '', result: null }
+    super();
+    this.state = { name: '', email: '', result: null };
   }
 
-  handleSubmit = async (e) => {
-    const result = await addToMailchimp(this.state.email, { FNAME: this.state.name })
+  handleSubmit = async () => {
+    const result = await addToMailchimp(this.state.email, { FNAME: this.state.name });
     if (result.result === 'error') {
-      alert(`Whoops, ${this.state.name} you're already subscribed!`)
+      alert(`Whoops, ${this.state.name} you're already subscribed!`);
     } else {
-      alert(`Thank you for subscribing ${this.state.name}!`)
+      alert(`Thank you for subscribing ${this.state.name}!`);
     }
-    this.setState({ result: result })
+    this.setState({ result });
   }
 
   handleEmailChange = (event) => {
-    this.setState({ email: event.target.value })
+    this.setState({ email: event.target.value });
   }
 
   handleNameChange = (event) => {
-    this.setState({ name: event.target.value })
+    this.setState({ name: event.target.value });
   }
 
   render() {
@@ -77,6 +84,6 @@ export default class Subscribe extends React.Component {
           }
         `}</style>
       </React.Fragment>
-    )
+    );
   }
 }
