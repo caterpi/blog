@@ -4,6 +4,7 @@ import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
+import Subscribe from './Subscribe';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
 
@@ -20,6 +21,7 @@ const Sidebar = ({ isIndex }: Props) => {
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
+        <Subscribe/>
         <Copyright copyright={copyright} />
       </div>
     </div>

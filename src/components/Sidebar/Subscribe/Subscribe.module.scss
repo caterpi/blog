@@ -1,0 +1,39 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.subscribe {
+  @include margin-bottom(1);
+
+  &__title {
+    color: $color-gray;
+    // @include line-height(1);
+    // // @include margin-bottom(1)
+  }
+
+  &__input{
+    margin-bottom: 10px;
+    padding: 5px;
+    
+    &:focus {
+      color: $color-primary;
+    }
+  }
+  
+  &__button{
+    margin-top: 5px;
+    margin-bottom: 40px;
+    padding: 8px;
+
+    border-radius: 10px;
+    border: none;
+    background-color: $color-base;
+    color: $color-white;
+
+    &:hover,
+    &:focus {
+      background-color: $color-primary;
+      color: $color-white;
+      border-bottom: 1px solid $color-primary;
+    }
+  }
+}
